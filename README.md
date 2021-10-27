@@ -1,4 +1,4 @@
 # hello-world
-first repo
+1st repository
 
 Testing Github features
